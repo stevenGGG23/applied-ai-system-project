@@ -75,7 +75,7 @@ This is a number guessing game built with Streamlit. The player picks a difficul
 ### Challenge 4: Enhanced Game UI
 Features added: color-coded hints, 🔥/❄️ hot-cold proximity emojis, attempts progress bar, and a guess history summary table.
 
-![Enhanced UI](<Screenshot 2026-03-04 at 10.16.33 PM.png>)
+![Enhanced UI](<Screenshot 2026-03-04 at 10.16.33 PM.png>)
 
 ## Difficulty Reference
 
