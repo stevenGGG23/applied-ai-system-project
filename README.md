@@ -68,7 +68,7 @@ This is a number guessing game built with Streamlit. The player picks a difficul
 
 ## 📸 Demo
 
-![Game Screenshot](<Screenshot 2026-03-04 at 10.16.33 PM.png>)
+![Enhanced UI](<Screenshot 2026-03-04 at 10.16.33 PM.png>)
 
 ## 🚀 Stretch Features
 
