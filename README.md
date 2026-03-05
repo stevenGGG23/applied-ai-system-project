@@ -86,11 +86,11 @@ This is a number guessing game built with Streamlit. The player picks a difficul
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+![Game Screenshot](Screenshot 2026-03-04 at 10.16.33 PM.png)
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+![Game Screenshot](Screenshot 2026-03-04 at 10.16.33 PM.png)
 
 
 ### 📌 Port configuration
