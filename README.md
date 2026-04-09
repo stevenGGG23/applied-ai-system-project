@@ -124,9 +124,9 @@ This project taught me how RAG works at a fundamental level — retrieval doesn'
 
 ---
 
-## 📸 Screenshots
+## 📸 Architecture Diagram
 
-![App Screenshot](assets/screenshot.png)
+![App Architecture](assets/architecture.png)
 
 ---
 
