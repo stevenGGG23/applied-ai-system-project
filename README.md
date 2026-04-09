@@ -107,7 +107,7 @@ This project taught me how RAG works at a fundamental level — retrieval doesn'
 
 ## 🎥 Demo Walkthrough
 
-> Loom video link here (add before submission)
+> [Loom video link here (add before submission)](https://www.loom.com/share/dc0df4028d0a43c296ddbf83cd4db091) 
 
 ---
 
